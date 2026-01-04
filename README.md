@@ -1,7 +1,7 @@
 # 👩‍💻 Tanzila Patel  
 **Aspiring Data Analyst | Python | SQL | Data Analytics**
 
-📍 India  
+📍 Belgaum  
 📧 tanzilapatel.2002@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tanzila-patel123)
 
