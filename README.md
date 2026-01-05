@@ -1,5 +1,5 @@
-# 👩‍💻 Tanzila Patel  
-**Aspiring Data Analyst | Python | SQL | Data Analytics**
+# Tanzila Patel  
+**Aspiring Data Analyst | Python | SQL**
 
 📍 Belgaum  
 📧 tanzilapatel.2002@gmail.com  
@@ -7,12 +7,12 @@
 
 ---
 
-## 👋 About Me
+## About Me
 I am a passionate Computer Science graduate with strong skills in **Python, SQL, and Data Analysis**. I enjoy working with data to uncover insights, solve real-world problems, and support data-driven decision-making. I am currently seeking a **fresher role in Data Analytics / Data Science** to grow in a professional and collaborative environment.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Master of Computer Applications (MCA)**  
 *Karnataka University, Dharwad*  
@@ -24,7 +24,7 @@ I am a passionate Computer Science graduate with strong skills in **Python, SQL,
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming & Libraries
 - Python (NumPy, Pandas, Matplotlib, Seaborn)
@@ -41,12 +41,12 @@ I am a passionate Computer Science graduate with strong skills in **Python, SQL,
 
 ---
 
-## 📜 Certifications
+## Certifications
 - **Data Analysis in a Food Delivery Business** – Coding Ninjas
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Tata Group – Data Analytics Job Simulation (Forage)  
 📅 October 2025  
@@ -58,9 +58,9 @@ I am a passionate Computer Science graduate with strong skills in **Python, SQL,
 
 ---
 
-## 📊 Projects
+## Projects
 
-### 🏠 Airbnb Exploratory Data Analysis (EDA)
+### Airbnb Exploratory Data Analysis (EDA)
 📅 March 2025 – April 2025  
 
 - Performed EDA on **New York Airbnb dataset** to analyze pricing trends, room types, and host behavior  
@@ -73,7 +73,7 @@ I am a passionate Computer Science graduate with strong skills in **Python, SQL,
 
 ---
 
-### 🏨 Booking.com Hotel Web Scraper
+### Booking.com Hotel Web Scraper
 📅 August 2025 – September 2025  
 
 - Built a **Python-based web scraper** to extract hotel data from Booking.com  
@@ -85,15 +85,17 @@ I am a passionate Computer Science graduate with strong skills in **Python, SQL,
 
 ---
 
-## 🏆 Achievements
-- 🥈 Secured **2nd place** in a college-level **coding hackathon** among 50+ participants  
+## Achievements
+-  Secured **2nd place** in a college-level **coding hackathon** among 50+ participants  
 
 ---
 
-## 📫 Contact
+## Contact
 - Email: **tanzilapatel.2002@gmail.com**
+- Phone no: 9902344991
 - LinkedIn: [linkedin.com/in/tanzila-patel123](https://www.linkedin.com/in/tanzila-patel123)
+- Portfolio: https://tanzila10.github.io/tanzila.github.io/
 
 ---
 
-⭐ *Feel free to explore my repositories to see my work in data analysis, Python, and SQL.*
+ *Feel free to explore my repositories to see my work in data analysis, Python, and SQL.*
