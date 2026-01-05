@@ -94,7 +94,7 @@ I am a passionate Computer Science graduate with strong skills in **Python, SQL,
 - Email: **tanzilapatel.2002@gmail.com**
 - Phone no: 9902344991
 - LinkedIn: [linkedin.com/in/tanzila-patel123](https://www.linkedin.com/in/tanzila-patel123)
-- Portfolio: https://tanzila10.github.io/tanzila.github.io/
+- Portfolio: [https://tanzila10.github.io/tanzila.github.io/](https://tanzila10.github.io/tanzila.github.io/)
 
 ---
 
